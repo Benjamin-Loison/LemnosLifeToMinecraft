@@ -32,4 +32,4 @@ Enfin envoyez nous votre schematic qui est disponible dans le dossier .minecraft
 Il est donc important de nous tenir immédiatement au courant lorsque vous finissez une schematic afin de permettre aux autres de ne pas la remodéliser car ils ne savaient pas que vous l'aviez déjà modélisé.
 
 (1) la future boutique fonctionnera comme la précédente, gendarme à 10 tokens, rebelle à 2 tokens...
-Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pour chaque tranche de 10 heures de jeu, on gagne 1 token, sinon pour obtenir 1 token, il faut débourser 1 euro. (Autrement dit, charbonner les tokens tant que vous en avez l'occasion)
+Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pour chaque tranche de 10 heures de jeu, on gagne 1 token, sinon pour obtenir 1 token, il faut débourser 1 euro. (Autrement dit, charbonnez les tokens tant que vous en avez l'occasion)
