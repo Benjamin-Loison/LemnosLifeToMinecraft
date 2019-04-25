@@ -1,5 +1,4 @@
 # LemnosLifeToMinecraft
-Quelques fichiers publiques...
 
 M'aider à modéliser les structures d'Arma 3 dans Minecraft:
 
