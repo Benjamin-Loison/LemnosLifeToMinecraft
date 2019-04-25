@@ -18,6 +18,6 @@ Pour sauvegarder votre structure utiliser une hache en bois pour faire clique ga
 Faite alors //copy<br>
 Puis //schem save id<br>
 Avec id l'identifiant numérique, exemple: //schem save 42<br>
-Enfin envoyez nous votre schematic.<br><br>
+Enfin envoyez nous votre schematic qui est disponible dans le dossier .minecraft\config\worldedit\schematics.<br><br>
 
 Il est donc important de nous tenir immédiatement au courant lorsque vous finissez une schematic afin de permettre aux autres de ne pas la remodéliser car ils ne savaient pas que vous l'aviez déjà modélisé.
