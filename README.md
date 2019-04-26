@@ -7,6 +7,8 @@ Sur demande, vous pouvez gagner 1 token (équivalent de 1 euro soit 10 heures de
 - 5 structures modélisées sur Minecraft
 <br>A condition que le travail ai été bien fait (entièrement neuf (pas une vague copie d'un modèle déjà existant)) et que cela respecte les conditions définies dans ce document pour Minecraft et dans la description de la vidéo du tutoriel pour LemnosLife.
 
+Si vous avez déjà Arma 3, venez en (2) (en bas).
+
 M'aider à modéliser les structures d'Arma 3 dans mon jeu vidéo LemnosLife: https://www.youtube.com/watch?v=b2_LKXbIfMk
 
 M'aider à modéliser les structures d'Arma 3 dans Minecraft:<br><br>
@@ -29,7 +31,9 @@ Puis //schem save id<br>
 Avec id l'identifiant numérique, exemple: //schem save 42<br>
 Enfin envoyez nous votre schematic qui est disponible dans le dossier .minecraft\config\worldedit\schematics.<br><br>
 
-Il est donc important de nous tenir immédiatement au courant lorsque vous finissez une schematic afin de permettre aux autres de ne pas la remodéliser car ils ne savaient pas que vous l'aviez déjà modélisé.
+Il est donc important de nous tenir immédiatement au courant lorsque vous finissez une schematic afin de permettre aux autres de ne pas la remodéliser car ils ne savaient pas que vous l'aviez déjà modélisé.<br><br>
 
 (1) la future boutique fonctionnera comme la précédente, gendarme à 10 tokens, rebelle à 2 tokens...
-Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pour chaque tranche de 10 heures de jeu, on gagne 1 token, sinon pour obtenir 1 token, il faut débourser 1 euro. (Autrement dit, charbonnez les tokens tant que vous en avez l'occasion)
+Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pour chaque tranche de 10 heures de jeu, on gagne 1 token, sinon pour obtenir 1 token, il faut débourser 1 euro. (Autrement dit, charbonnez les tokens tant que vous en avez l'occasion)<br><br>
+
+(2) Si vous avez Arma 3 pour visualiser en 3D les structures, cliquez sur l'onglet Editeur sur Arma 3, lancez un monde Réalité virtuel, puis mettez un joueur et lancez le scénario. Puis cliquez sur Echap et dans la fenêtre Debug console, insérez dans Execute le code du fichier spawnObject.sqf
