@@ -65,8 +65,8 @@ a3\structures_f\civ\garbage\garbagepallet_f.p3d
 a3\structures_f\civ\constructions\woodenbox_f.p3d
 a3\structures_f\civ\garbage\garbage_square3_f.p3d
 a3\structures_f\civ\constructions\cinderblocks_f.p3d
-a3\rocks_f\sharp\sharpstone_03_lc.p3d
-a3\rocks_f\sharp\sharpstone_01_lc.p3d
+
+
 a3\structures_f\ind\shed\u_shed_ind_f.p3d
 
 
@@ -85,18 +85,18 @@ a3\structures_f\households\stone_shed\i_stone_shed_v1_f.p3d
 a3\structures_f\items\vessels\canisterplastic_f.p3d
 a3\structures_f\civ\market\cratesplastic_f.p3d
 a3\structures_f\civ\constructions\pallets_f.p3d
-a3\rocks_f\sharp\sharpstone_02_lc.p3d
+
 
 a3\structures_f\wrecks\wreck_offroad2_f.p3d
 a3\structures_f_epc\civ\accessories\bench_02_f.p3d
-a3\rocks_f\sharp\sharpstones_erosion.p3d
+
 a3\structures_f\ind\powerlines\powerpolewooden_small_f.p3d
 a3\structures_f\civ\lamps\lamphalogen_off_f.p3d
 
 a3\structures_f\civ\sportsgrounds\goal_f.p3d
 
 
-a3\structures_f\wrecks\wreck_car_f.p3d
+
 a3\structures_f_epb\civ\garbage\garbagecontainer_open_f.p3d
 a3\structures_f_epc\civ\accessories\atm_01_f.p3d
 a3\structures_f\civ\garbage\garbage_line_f.p3d
@@ -111,8 +111,8 @@ a3\structures_f_epc\civ\garbage\garbagebin_01_f.p3d
 a3\structures_f\ind\airport\airport_left_f.p3d
 a3\structures_f_epb\civ\accessories\phonebooth_01_f.p3d
 a3\structures_f\civ\market\cages_f.p3d
-a3\rocks_f\blunt\bluntstone_03.p3d
-a3\rocks_f\blunt\bluntstone_01.p3d
+
+
 a3\structures_f\ind\airport\airport_right_f.p3d
 a3\structures_f\civ\camping\toiletbox_f.p3d
 a3\structures_f\walls\new_wiredfence_10m_f.p3d
@@ -122,7 +122,7 @@ a3\structures_f\ind\transmitter_tower\ttowersmall_2_f.p3d
 a3\structures_f\ind\transmitter_tower\tbox_f.p3d
 a3\structures_f\ind\transmitter_tower\ttowersmall_1_f.p3d
 a3\structures_f\walls\new_wiredfence_pole_f.p3d
-a3\structures_f\walls\city_pillar_f.p3d
+
 a3\structures_f\items\vessels\bucket_f.p3d
 a3\roads_f\runway\runwaylights\runway_edgelight_blue_f.p3d
 a3\structures_f\households\house_small01\i_house_small_01_v1_f.p3d
@@ -133,10 +133,10 @@ a3\structures_f\civ\garbage\garbagebags_f.p3d
 a3\structures_f\civ\garbage\tyre_f.p3d
 a3\structures_f\civ\constructions\concretepipe_f.p3d
 a3\structures_f\households\house_small02\house_small_02_v1_ruins_f.p3d
-a3\structures_f\wrecks\wreck_car3_f.p3d
+
 a3\structures_f\households\addons\i_addon_02_v1_f.p3d
 a3\structures_f\civ\market\basket_f.p3d
-a3\structures_f\wrecks\wreck_car2_f.p3d
+
 a3\structures_f_epa\civ\camping\woodentable_large_f.p3d
 a3\structures_f\households\stone_shed\i_stone_shed_v2_f.p3d
 a3\structures_f\households\stone_small\i_stone_housesmall_v3_f.p3d
@@ -152,7 +152,7 @@ a3\structures_f\walls\city_8md_f.p3d
 a3\structures_f\households\slum\slum_house01_f.p3d
 a3\structures_f\households\slum\cargo_addon02_v1_f.p3d
 a3\structures_f\households\slum\cargo_addon02_v2_f.p3d
-a3\rocks_f\blunt\bluntstones_erosion.p3d
+
 a3\structures_f\civ\constructions\bricks_v3_f.p3d
 a3\structures_f\households\slum\cargo_house_slum_f.p3d
 a3\structures_f\civ\constructions\bricks_v4_f.p3d
@@ -160,7 +160,7 @@ a3\structures_f\civ\constructions\bricks_v2_f.p3d
 
 a3\structures_f\households\slum\cargo_addon01_v2_f.p3d
 a3\structures_f\households\stone_big\i_stone_housebig_v3_f.p3d
-a3\rocks_f\blunt\bluntstone_02.p3d
+
 a3\structures_f\walls\city_4m_f.p3d
 a3\structures_f\civ\lamps\lampsolar_f.p3d
 a3\structures_f\households\wip\unfinished_building_02_f.p3d
@@ -177,7 +177,7 @@ a3\structures_f\walls\city2_8md_f.p3d
 
 a3\structures_f\civ\market\sacks_goods_f.p3d
 a3\structures_f\civ\market\sack_f.p3d
-a3\structures_f\walls\city2_pillard_f.p3d
+
 a3\structures_f\households\wip\unfinished_building_01_f.p3d
 a3\structures_f\households\house_small01\i_house_small_01_v3_f.p3d
 a3\structures_f\furniture\bench_f.p3d
@@ -187,10 +187,10 @@ a3\structures_f\civ\pavements\pavement_narrow_corner_f.p3d
 a3\structures_f\civ\pavements\pavement_narrow_f.p3d
 a3\structures_f\mil\barracks\i_barracks_v2_f.p3d
 a3\structures_f\households\addons\i_garage_v2_f.p3d
-a3\rocks_f\blunt\bluntrock_monolith.p3d
+
 a3\structures_f\civ\garbage\tyres_f.p3d
 a3\structures_f\items\vessels\metalbarrel_f.p3d
-a3\rocks_f\blunt\bluntrock_apart.p3d
+
 a3\structures_f\ind\tank\tank_rust_f.p3d
 a3\rocks_f\blunt\bluntrock_spike.p3d
 a3\structures_f\households\house_small01\d_house_small_01_v1_f.p3d
@@ -230,7 +230,7 @@ a3\structures_f\civ\market\crateswooden_f.p3d
 a3\structures_f\civ\lamps\lampdecor_off_f.p3d
 a3\structures_f\households\house_big02\i_house_big_02_v3_f.p3d
 a3\structures_f\households\addons\i_addon_04_v1_f.p3d
-a3\structures_f\wrecks\wreck_uaz_f.p3d
+
 a3\structures_f\households\house_small01\house_small_01_v1_ruins_f.p3d
 a3\structures_f\ind\carservice\carservice_f.p3d
 
@@ -286,10 +286,10 @@ a3\structures_f\ind\airport\hangar_f.p3d
 a3\plants_f\tree\t_populusn3s_f.p3d
 a3\structures_f\mil\fortification\hbarrier_3_f.p3d
 a3\plants_f\bush\b_neriumo2s_f.p3d
-a3\structures_f\civ\dead\grave_v1_f.p3d
-a3\structures_f\wrecks\wreck_truck_f.p3d
-a3\structures_f\civ\dead\grave_v2_f.p3d
-a3\structures_f\civ\dead\grave_v3_f.p3d
+
+
+
+
 a3\structures_f_epc\civ\camping\sunshade_02_f.p3d
 a3\structures_f\civ\calvaries\calvary_02_v2_f.p3d
 a3\structures_f\items\vessels\barrelempty_f.p3d
@@ -297,22 +297,22 @@ a3\structures_f\households\stone_big\stone_housebig_v1_ruins_f.p3d
 a3\structures_f_epc\civ\kiosks\kiosk_redburger_f.p3d
 a3\structures_f\mil\cargo\cargo_patrol_v1_f.p3d
 a3\structures_f\ind\transmitter_tower\communication_f.p3d
-a3\roads_f\runway\runwaylights\runway_papi_4.p3d
+
 a3\structures_f_epc\civ\accessories\atm_02_f.p3d
-a3\roads_f\runway\runwaylights\runway_papi_3.p3d
-a3\roads_f\runway\runwaylights\runway_papi_2.p3d
-a3\roads_f\runway\runwaylights\runway_papi.p3d
+
+
+
 a3\roads_f\runway\runwaylights\naviglight.p3d
 a3\structures_f\mil\cargo\cargo_house_v1_f.p3d
 a3\structures_f\mil\fortification\hbarrier_5_f.p3d
-a3\signs_f\signt\signt_junctionrow.p3d
+
 a3\roads_f\runway\runwaylights\flush_light_red_f.p3d
 a3\structures_f\mil\cargo\cargo_hq_v1_f.p3d
 
 
 a3\structures_f\mil\offices\miloffices_v1_f.p3d
-a3\signs_f\signt\signt_sharpbendright.p3d
-a3\signs_f\signt\signt_sharpbendleft.p3d
+
+
 
 a3\roads_f\runway\runwaylights\naviglight_3_f.p3d
 a3\structures_f\mil\radar\radar_small_f.p3d
@@ -327,15 +327,15 @@ a3\plants_f\tree\t_pinuss1s_f.p3d
 a3\plants_f\tree\t_pinuss2s_f.p3d
 a3\structures_f\walls\mil_wiredfence_f.p3d
 a3\structures_f\walls\mil_wiredfenced_f.p3d
-a3\signs_f\signt\signt_warningaircraft.p3d
+
 a3\structures_f\civ\sportsgrounds\bc_basket_f.p3d
 a3\structures_f\ind\solarpowerplant\spp_mirror_f.p3d
 
 a3\structures_f\civ\sportsgrounds\bc_court_f.p3d
 a3\structures_f\civ\lamps\lampstreet_f.p3d
-a3\signs_f\signt\signt_commandeddirectionforward.p3d
-a3\structures_f\walls\net_fence_pole_f.p3d
-a3\signs_f\signt\signt_dangerbendsl.p3d
+
+
+
 
 
 a3\rocks_f\stone_small_f.p3d
@@ -369,7 +369,7 @@ a3\structures_f\mil\cargo\cargo_house_v2_f.p3d
 
 
 
-a3\structures_f\wrecks\wreck_truck_dropside_f.p3d
+
 
 a3\structures_f\households\stone_big\d_stone_housebig_v1_f.p3d
 
@@ -379,7 +379,7 @@ a3\structures_f\households\house_big02\house_big_02_v1_ruins_f.p3d
 a3\rocks_f\water\w_sharpstone_03.p3d
 a3\rocks_f\water\w_sharpstone_02.p3d
 
-a3\plants_f\bush\bw_setbig_corals_f.p3d
+
 a3\structures_f\ind\powerlines\highvoltageend_f.p3d
 
 
@@ -387,7 +387,7 @@ a3\structures_f\households\house_shop02\u_shop_02_v1_f.p3d
 a3\rocks_f\water\w_sharprock_wallh.p3d
 a3\rocks_f\water\w_sharpstones_erosion.p3d
 
-a3\plants_f\bush\bw_setbig_brains_f.p3d
+
 
 a3\structures_f\mil\fortification\razorwire_f.p3d
 a3\structures_f\walls\canal_wallsmall_10m_f.p3d
@@ -399,7 +399,7 @@ a3\structures_f\civ\playground\slide_f.p3d
 a3\plants_f\bush\bw_setsmall_tubey_f.p3d
 a3\structures_f\civ\lamps\lampsolar_off_f.p3d
 a3\structures_f\naval\piers\pier_f.p3d
-a3\structures_f\naval\piers\pillar_pier_f.p3d
+
 a3\structures_f\walls\cncbarriermedium_f.p3d
 a3\plants_f\bush\bw_setbig_tubeg_f.p3d
 a3\structures_f_epb\naval\fishing\crabcages_f.p3d
@@ -413,10 +413,10 @@ a3\structures_f\households\house_big01\u_house_big_01_v1_f.p3d
 a3\structures_f\naval\piers\nav_pier_m_f.p3d
 a3\structures_f\mil\cargo\cargo_patrol_v2_f.p3d
 a3\structures_f\civ\accessories\treebin_f.p3d
-a3\structures_f\walls\slums02_pole.p3d
+
 a3\structures_f\walls\slums02_4m.p3d
 a3\structures_f\research\research_hq_f.p3d
-a3\signs_f\signt\signt_deadend.p3d
+
 a3\structures_f\walls\cncbarrier_f.p3d
 a3\structures_f\research\dome_big_f.p3d
 a3\structures_f\research\research_house_v1_f.p3d
@@ -426,13 +426,13 @@ a3\structures_f\civ\lamps\lampstreet_off_f.p3d
 a3\structures_f_epc\civ\kiosks\kiosk_gyros_f.p3d
 a3\structures_f\mil\helipads\helipadsquare_f.p3d
 a3\structures_f\walls\canal_wall_10m_f.p3d
-a3\structures_f\ind\powerlines\powerpolewooden_l_off_f.p3d
-a3\structures_f\wrecks\wreck_offroad_f.p3d
-a3\structures_f\civ\dead\humanskeleton_f.p3d
-a3\structures_f\civ\dead\humanskull_f.p3d
+
+
+
+
 a3\structures_f\dominants\church\church_01_v1_f.p3d
 a3\structures_f\walls\mil_wallbig_4m_f.p3d
-a3\signs_f\signt\signt_warningpedcrossing.p3d
+
 a3\structures_f\civ\camping\sun_chair_f.p3d
 a3\structures_f\civ\camping\sunshade_f.p3d
 a3\structures_f\walls\canal_wall_stairs_f.p3d
@@ -441,7 +441,7 @@ a3\structures_f\ind\transmitter_tower\communication_anchor_f.p3d
 
 a3\structures_f\mil\cargo\cargo_hq_v3_f.p3d
 
-a3\signs_f\signt\signt_infohotel.p3d
+
 a3\structures_f\households\stone_big\i_stone_housebig_v1_f.p3d
 a3\structures_f\households\house_big01\i_house_big_01_v1_f.p3d
 a3\structures_f\civ\constructions\scaffolding_f.p3d
@@ -474,11 +474,11 @@ a3\structures_f\households\house_small03\i_house_small_03_v1_f.p3d
 a3\plants_f\bush\bw_setbig_tubey_f.p3d
 
 a3\structures_f\ind\pipes\indpipe2_bigl_r_f.p3d
-a3\structures_f\wrecks\wreck_skodovka_f.p3d
+
 a3\structures_f\ind\factory\factory_main_f.p3d
 a3\structures_f\ind\windmill\i_windmill01_f.p3d
 a3\structures_f\walls\mil_concretewall_f.p3d
-a3\structures_f\walls\indfnc_pole_f.p3d
+
 a3\structures_f\walls\indfnc_3_d_f.p3d
 a3\rocks_f\blunt\bluntrock_wallh.p3d
 a3\structures_f\walls\indfnc_3_f.p3d
@@ -492,12 +492,12 @@ a3\structures_f_epc\civ\kiosks\kiosk_blueking_ruins_f.p3d
 a3\rocks_f\water\w_sharprock_spike.p3d
 a3\structures_f\ind\pipes\indpipe1_90degr_f.p3d
 a3\structures_f\walls\mil_wallbig_corner_f.p3d
-a3\signs_f\signt\signt_warningunevenroad.p3d
+
 a3\structures_f\walls\indfnc_3_hole_f.p3d
 
 a3\structures_f\naval\piers\pier_small_f.p3d
 
-a3\plants_f\tree\t_poplar2f_dead_f.p3d
+
 a3\structures_f\households\addons\metal_shed_ruins_f.p3d
 
 
@@ -512,20 +512,20 @@ a3\rocks_f\stone_medium_f.p3d
 
 
 
-a3\signs_f\signt\signt_warningcows.p3d
+
 
 a3\structures_f\furniture\shelvesmetal_f.p3d
 
 a3\structures_f\civ\chapels\chapel_v2_f.p3d
 a3\structures_f\ind\solarpowerplant\spp_panel_f.p3d
 a3\structures_f\civ\belltowers\belltower_02_v2_f.p3d
-a3\structures_f\wrecks\wreck_cardismantled_f.p3d
 
-a3\structures_f\civ\dead\grave_obelisk_f.p3d
-a3\structures_f\civ\dead\grave_soldier_f.p3d
+
+
+
 a3\structures_f\furniture\rack_f.p3d
 a3\structures_f\civ\statues\maroula_f.p3d
-a3\signs_f\signt\signt_infopedcrossing.p3d
+
 a3\structures_f\naval\rowboats\rowboat_v2_f.p3d
 a3\plants_f\tree\t_pinusp3s_f.p3d
 a3\structures_f\naval\piers\sea_wall_f.p3d
@@ -537,8 +537,8 @@ a3\structures_f\ind\powerlines\highvoltagetower_large_f.p3d
 a3\rocks_f\blunt\bluntstone_01_lc.p3d
 a3\structures_f\ind\powerlines\powerwirebig_direct_short_f.p3d
 a3\rocks_f\blunt\bluntstone_02_lc.p3d
-a3\signs_f\signt\signt_commandeddirectionright.p3d
-a3\structures_f\wrecks\uwreck_mv22_f.p3d
+
+
 a3\structures_f_epc\civ\accessories\beachbooth_01_f.p3d
 a3\structures_f\ind\powerlines\powerwirebig_right_f.p3d
 a3\structures_f_epc\civ\accessories\lifeguardtower_01_f.p3d
@@ -547,7 +547,7 @@ a3\structures_f\naval\piers\pier_wall_f.p3d
 a3\structures_f\ind\powerlines\highvoltagetower_largecorner_f.p3d
 a3\structures_f\civ\lamps\lampharbour_off_f.p3d
 a3\structures_f\wrecks\wreck_traw_f.p3d
-a3\signs_f\signt\signt_noovertaking.p3d
+
 
 
 
@@ -569,8 +569,8 @@ a3\structures_f\ind\concretemixingplant\cmp_shed_f.p3d
 
 a3\structures_f\ind\concretemixingplant\cmp_tower_f.p3d
 
-a3\signs_f\signt\signt_warningramp.p3d
-a3\signs_f\signt\signt_nopowervehs.p3d
+
+
 a3\structures_f\wrecks\uwreck_fishingboat_f.p3d
 
 a3\structures_f\households\house_shop02\shop_02_v1_ruins_f.p3d
@@ -586,7 +586,7 @@ a3\rocks_f\stone_big_f.p3d
 
 a3\structures_f\civ\camping\sun_chair_green_f.p3d
 a3\structures_f\wrecks\wreck_bmp2_f.p3d
-a3\signs_f\signt\signt_warningwild.p3d
+
 
 
 a3\rocks_f\stonesharp_big.p3d
@@ -597,7 +597,7 @@ a3\structures_f\civ\statues\maroula_base_f.p3d
 a3\structures_f\households\house_shop01\shop_01_v1_ruins_f.p3d
 
 
-a3\signs_f\signt\signt_noovertakingtruck.p3d
+
 a3\structures_f\walls\wired_fence_4md_f.p3d
 a3\structures_f\wrecks\wreck_slammer_hull_f.p3d
 a3\structures_f\walls\wired_fence_8md_f.p3d
@@ -629,7 +629,7 @@ a3\structures_f\mil\bunker\bunker_f.p3d
 
 a3\rocks_f\blunt\bluntrock_wallv.p3d
 
-a3\signs_f\signt\signt_warningsteepdown.p3d
+
 a3\structures_f\walls\ancient_wall_8m_f.p3d
 a3\structures_f\walls\ancient_wall_4m_f.p3d
 
@@ -648,10 +648,10 @@ a3\structures_f\civ\offices\offices_01_v1_f.p3d
 
 
 a3\structures_f\ind\powerlines\powerpoleconcrete_f.p3d
-a3\signs_f\signt\signt_commandeddirectionturnleft.p3d
 
 
-a3\signs_f\signt\signt_commandeddirectionturnright.p3d
+
+
 
 
 a3\structures_f\households\house_big01\house_big_01_v1_ruins_f.p3d
@@ -676,13 +676,12 @@ a3\structures_f\walls\rampart_f.p3d
 
 
 
-a3\structures_f\civ\dead\grave_memorial_f.p3d
-a3\structures_f\civ\dead\grave_monument_f.p3d
+
+
 a3\rocks_f\sharp\sharprock_wallv.p3d
 a3\structures_f\ind\transmitter_tower\ttowerbig_2_f.p3d
 
 
-a3\signs_f\signt\signt_warningrocks.p3d
 
 
 
@@ -690,7 +689,8 @@ a3\signs_f\signt\signt_warningrocks.p3d
 
 
 
-a3\signs_f\signm\signm_warningmilitaryvehicles_f.p3d
+
+
 
 a3\structures_f\ind\airport\landmark_f.p3d
 
@@ -708,7 +708,7 @@ a3\plants_f\plant\p_reeds_f.p3d
 
 
 
-a3\signs_f\signt\signt_nopollutingvehs.p3d
+
 
 
 
@@ -723,10 +723,10 @@ a3\rocks_f\small_stone_02_f.p3d
 
 
 
-a3\structures_f\civ\ancient\ancientpillar_fallen_f.p3d
 
-a3\structures_f\civ\ancient\ancientpillar_damaged_f.p3d
-a3\structures_f\civ\ancient\ancientpillar_f.p3d
+
+
+
 a3\structures_f\dominants\amphitheater\amphitheater_f.p3d
 
 
@@ -759,7 +759,7 @@ a3\rocks_f\water\stonesharp_medium_w.p3d
 
 
 
-a3\signs_f\signt\signt_warningsteepup.p3d
+
 
 
 
@@ -851,17 +851,17 @@ a3\structures_f\items\vessels\barreltrash_f.p3d
 
 
 
-a3\structures_f\dominants\lighthouse\lighthouse_f.p3d
+
 
 a3\structures_f\dominants\castle\castle_01_wall_02_f.p3d
 a3\structures_f\dominants\castle\castle_01_wall_01_f.p3d
 a3\structures_f\dominants\castle\castle_01_wall_15_f.p3d
 
-a3\structures_f\households\addons\addon_03_v1_ruins_f.p3d
-a3\structures_f\ind\powerlines\powlines_transformer_f.p3d
 
-a3\structures_f\dominants\castle\castle_01_wall_09_f.p3d
-a3\structures_f\dominants\castle\castle_01_wall_07_f.p3d
+
+
+
+
 
 
 
