@@ -90,7 +90,7 @@ a3\structures_f\civ\constructions\pallets_f.p3d
 a3\structures_f\wrecks\wreck_offroad2_f.p3d
 a3\structures_f_epc\civ\accessories\bench_02_f.p3d
 
-a3\structures_f\ind\powerlines\powerpolewooden_small_f.p3d
+
 a3\structures_f\civ\lamps\lamphalogen_off_f.p3d
 
 a3\structures_f\civ\sportsgrounds\goal_f.p3d
@@ -121,10 +121,10 @@ a3\structures_f\walls\new_wiredfence_10m_dam_f.p3d
 a3\structures_f\ind\transmitter_tower\ttowersmall_2_f.p3d
 a3\structures_f\ind\transmitter_tower\tbox_f.p3d
 a3\structures_f\ind\transmitter_tower\ttowersmall_1_f.p3d
-a3\structures_f\walls\new_wiredfence_pole_f.p3d
+
 
 a3\structures_f\items\vessels\bucket_f.p3d
-a3\roads_f\runway\runwaylights\runway_edgelight_blue_f.p3d
+
 a3\structures_f\households\house_small01\i_house_small_01_v1_f.p3d
 a3\structures_f\walls\new_wiredfence_5m_f.p3d
 a3\structures_f\households\slum\cargo_addon01_v1_f.p3d
@@ -142,7 +142,7 @@ a3\structures_f\households\stone_shed\i_stone_shed_v2_f.p3d
 a3\structures_f\households\stone_small\i_stone_housesmall_v3_f.p3d
 
 a3\structures_f\ind\airport\airport_tower_f.p3d
-a3\structures_f\walls\slums01_pole.p3d
+
 a3\structures_f\walls\slums01_8m.p3d
 a3\structures_f\civ\camping\campingchair_v2_f.p3d
 
@@ -164,8 +164,8 @@ a3\structures_f\households\stone_big\i_stone_housebig_v3_f.p3d
 a3\structures_f\walls\city_4m_f.p3d
 a3\structures_f\civ\lamps\lampsolar_f.p3d
 a3\structures_f\households\wip\unfinished_building_02_f.p3d
-a3\roads_f\runway\runwaylights\flush_light_green_f.p3d
-a3\structures_f\ind\powerlines\powerpolewooden_f.p3d
+
+
 a3\structures_f\households\house_small02\u_house_small_02_v1_f.p3d
 a3\structures_f\households\stone_small\stone_housesmall_v1_ruins_f.p3d
 a3\structures_f\households\stone_shed\i_stone_shed_v3_f.p3d
@@ -239,7 +239,7 @@ a3\structures_f\civ\constructions\bricks_v1_f.p3d
 a3\structures_f\households\house_big01\i_house_big_01_v3_f.p3d
 a3\structures_f\households\house_big02\i_house_big_02_v2_f.p3d
 a3\structures_f\households\house_big02\d_house_big_02_v1_f.p3d
-a3\structures_f\ind\powerlines\powerpolewooden_l_f.p3d
+
 a3\structures_f\households\house_big02\i_house_big_02_v1_f.p3d
 
 a3\structures_f\civ\market\woodencart_f.p3d
@@ -272,9 +272,9 @@ a3\structures_f\civ\chapels\chapel_v1_f.p3d
 a3\structures_f\walls\city_gate_f.p3d
 a3\structures_f\households\stone_small\i_stone_housesmall_v2_f.p3d
 a3\structures_f\mil\tenthangar\tenthangar_v1_f.p3d
-a3\roads_f\runway\runwaylights\runway_edgelight.p3d
+
 a3\structures_f\civ\lamps\lampstreet_small_off_f.p3d
-a3\roads_f\runway\runwaylights\flush_light_yellow_f.p3d
+
 a3\plants_f\tree\t_quercusir2s_f.p3d
 a3\structures_f\walls\cncbarrier_stripes_f.p3d
 a3\structures_f\households\stone_shed\d_stone_shed_v1_f.p3d
@@ -302,11 +302,11 @@ a3\structures_f_epc\civ\accessories\atm_02_f.p3d
 
 
 
-a3\roads_f\runway\runwaylights\naviglight.p3d
+
 a3\structures_f\mil\cargo\cargo_house_v1_f.p3d
 a3\structures_f\mil\fortification\hbarrier_5_f.p3d
 
-a3\roads_f\runway\runwaylights\flush_light_red_f.p3d
+
 a3\structures_f\mil\cargo\cargo_hq_v1_f.p3d
 
 
@@ -314,7 +314,7 @@ a3\structures_f\mil\offices\miloffices_v1_f.p3d
 
 
 
-a3\roads_f\runway\runwaylights\naviglight_3_f.p3d
+
 a3\structures_f\mil\radar\radar_small_f.p3d
 
 a3\structures_f_epc\civ\camping\sunshade_01_f.p3d
@@ -647,7 +647,7 @@ a3\structures_f\ind\dieselpowerplant\dp_mainfactory_f.p3d
 a3\structures_f\civ\offices\offices_01_v1_f.p3d
 
 
-a3\structures_f\ind\powerlines\powerpoleconcrete_f.p3d
+
 
 
 
@@ -699,7 +699,7 @@ a3\structures_f\ind\airport\landmark_f.p3d
 a3\structures_f\mil\helipads\helipadcircle_f.p3d
 
 
-a3\structures_f\dominants\lighthouse\lighthouse_small_f.p3d
+
 a3\plants_f\plant\p_reeds_f.p3d
 
 
