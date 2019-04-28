@@ -730,8 +730,8 @@ a3\rocks_f\small_stone_02_f.p3d
 a3\structures_f\dominants\amphitheater\amphitheater_f.p3d
 
 
-a3\structures_f\walls\cncwall1_f.p3d
-a3\structures_f\walls\cncwall4_f.p3d
+
+
 
 
 
@@ -781,7 +781,7 @@ a3\structures_f\ind\reservoirtank\reservoirtank_rust_f.p3d
 
 a3\structures_f\ind\windpowerplant\wpp_turbine_v1_f.p3d
 
-a3\structures_f\walls\cncshelter_f.p3d
+
 a3\structures_f_epc\dominants\ghosthotel\gh_house_2_f.p3d
 a3\structures_f_epc\dominants\ghosthotel\gh_house_1_f.p3d
 a3\structures_f_epc\dominants\ghosthotel\gh_platform_f.p3d
