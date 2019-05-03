@@ -7,6 +7,8 @@ Sur demande, vous pouvez gagner 1 token (équivalent de 1 euro soit 10 heures de
 - 5 structures modélisées sur Minecraft
 <br>A condition que le travail ai été bien fait (entièrement neuf (pas une vague copie d'un modèle déjà existant)) et que cela respecte les conditions définies dans ce document pour Minecraft et dans la description de la vidéo du tutoriel pour LemnosLife.
 
+Pour m'envoyer vos structures réalisées c'est par ici: https://lemnoslife.com/structure.php
+
 Si vous avez déjà Arma 3 (ou si vous voulez le télécharger avec les identifiants Steam donnée dans la vidéo), venez en (2) (en bas).
 
 M'aider à modéliser les structures d'Arma 3 dans mon jeu vidéo LemnosLife: https://www.youtube.com/watch?v=b2_LKXbIfMk
