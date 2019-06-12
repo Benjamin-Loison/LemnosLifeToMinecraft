@@ -39,3 +39,11 @@ Il est donc important de nous tenir immédiatement au courant lorsque vous finis
 Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pour chaque tranche de 10 heures de jeu, on gagne 1 token, sinon pour obtenir 1 token, il faut débourser 1 euro. (Autrement dit, charbonnez les tokens tant que vous en avez l'occasion)<br><br>
 
 (2) Si vous avez Arma 3 pour visualiser en 3D les structures, cliquez sur l'onglet Editeur sur Arma 3, lancez un monde Réalité virtuel, puis mettez un joueur et lancez le scénario. Puis cliquez sur Echap et dans la fenêtre Debug console, insérez dans Execute le code du fichier spawnObject.sqf
+
+Fin tutoriel
+
+--------
+
+Même si j'ai le code source complet, je ne vais pas uploader mes algorithmes maintenant car cela peut d'une certaine manière nuire à mon projet LemnosLife.
+
+Even if I got the full code, I won't upload my algorithms yet because it can in a way affect my main project: LemnosLife
