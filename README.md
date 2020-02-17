@@ -40,6 +40,8 @@ Cependant les tokens peuvent être obtenus en jouant ou en payant. En jouant pou
 
 (2) Si vous avez Arma 3 pour visualiser en 3D les structures, cliquez sur l'onglet Editeur sur Arma 3, lancez un monde Réalité virtuel, puis mettez un joueur et lancez le scénario. Puis cliquez sur Echap et dans la fenêtre Debug console, insérez dans Execute le code du fichier spawnObject.sqf
 
+NB: Vous pouvez utiliser "getModelInfo cursorObject;" dans un champ Watch sur Arma 3 afin de pouvoir consulter "en direct" l'identifiant de la structure visée
+
 Fin tutoriel
 
 --------
