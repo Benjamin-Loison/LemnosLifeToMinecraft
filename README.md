@@ -1,4 +1,4 @@
-# LemnosLifeToMinecraft
+# LemnosLife to Minecraft
 
 Pour m'envoyer vos structures réalisées c'est par ici: https://lemnoslife.com/structure.php
 
