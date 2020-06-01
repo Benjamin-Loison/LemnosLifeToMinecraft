@@ -37,6 +37,8 @@ NB: Vous pouvez utiliser "getModelInfo cursorObject;" dans un champ Watch sur Ar
 
 Fin tutoriel
 
+On pourrait utiliser https://github.com/akudeukie/pigmap pour la génération de la carte.
+
 --------
 
 Même si j'ai le code source complet, je ne vais pas uploader mes algorithmes maintenant car cela peut d'une certaine manière nuire à mon projet LemnosLife.
