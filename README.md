@@ -44,3 +44,5 @@ On pourrait utiliser https://github.com/akudeukie/pigmap pour la génération de
 Même si j'ai le code source complet, je ne vais pas uploader mes algorithmes maintenant car cela peut d'une certaine manière nuire à mon projet LemnosLife.
 
 Even if I got the full code, I won't upload my algorithms yet because it can in a way affect my main project: LemnosLife
+
+<!-- I gave an unsuccessful try [here](https://github.com/Benjamin-Loison/Lot-of-Java-projects/tree/master/Minecraft/Mods%20and%20plugins/Abandonned/AltisConverter) with a custom mod to generate the Minecraft map from the LemnosLife one -->
