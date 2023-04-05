@@ -10,7 +10,7 @@ M'aider à modéliser les structures d'Arma 3 dans Minecraft:<br><br>
 
 https://lemnoslife.com/gDhqfL8QfZz5NHKb6ZVBDk, jusqu'à 20:58 j'explique comment avoir une visualisation des structures 3D d'Arma 3.<br>
 Télécharger Minecraft avec la version 1.8<br>
-Télécharger et installer forge 1.8 https://adfoc.us/serve/sitelinks/?id=271228&url=https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8-11.14.4.1563/forge-1.8-11.14.4.1563-installer-win.exe<br>
+Télécharger et installer forge 1.8 https://maven.minecraftforge.net/net/minecraftforge/forge/1.8-11.14.4.1563/forge-1.8-11.14.4.1563-installer-win.exe<br>
 Télécharger et mettez le mod WorldEdit pour 1.8 dans votre dossier mods (dans le dossier .minecraft dans %appdata%)<br> https://minecraft.curseforge.com/projects/worldedit/files/2240310/download<br>
 Lancer Minecraft et créer une carte plate en solo (non multijoueur)<br>
 Choisissez une structure à modéliser parmis ceux de cette liste: https://github.com/Benjamin-LOISON/LemnosLifeToMinecraft/blob/master/structures.txt<br>
